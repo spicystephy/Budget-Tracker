@@ -22,8 +22,8 @@ Give your expenses or deposits a name and its dollar amount. If it is an expense
 
 ## Questions
 Contact me at stephaniemzavala@gmail.com or through GitHub @spicystephy for any questions.
-<br>https://github.com/spicystephy/Workout-Tracker.git
-<br>https://spicystephy.github.io/Workout-Tracker/
-<br>https://tracked-workout.herokuapp.com/
+<br>https://github.com/spicystephy/Budget-Tracker.git
+<br>https://spicystephy.github.io/Budget-Tracker/
+<br>https://tracked-budget.herokuapp.com/
 
 
